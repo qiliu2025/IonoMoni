@@ -1,0 +1,1442 @@
+[Notice] Using provided XML configuration file: D:\IonoMoni\IonoMoni-main\batch_process\project\PPP_STEC\2023_305\IonoMoni_2023_305_000.xml
+Attempting to read XML file: D:\IonoMoni\IonoMoni-main\batch_process\project\PPP_STEC\2023_305\IonoMoni_2023_305_000.xml
+[2025-06-21 18:58:15.692] [multi_logger] [info] IonoMoni program started...
+[2025-06-21 18:58:15.693] [multi_logger] [info] Successfully read XML: D:\IonoMoni\IonoMoni-main\batch_process\project\PPP_STEC\2023_305\IonoMoni_2023_305_000.xml
+[2025-06-21 18:58:15.693] [multi_logger] [info] Successfully retrieved function field: PPP_STEC
+[2025-06-21 18:58:15.711] [multi_logger] [info] Starting PPP_STEC function...
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code I09
+[2025-06-21 18:58:16.535] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.543] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.544] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.552] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.553] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.562] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.563] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.572] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.573] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.584] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.585] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.597] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.598] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.689] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.697] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.698] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.737] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.744] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.745] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.753] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.754] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.762] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.763] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.773] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.774] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.784] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.784] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:16.795] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:16.796] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.208] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.220] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.221] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.267] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.277] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.278] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.287] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.288] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.298] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.299] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.309] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.310] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.320] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.321] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.334] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.334] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.380] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.389] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.390] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.398] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.399] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.408] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.409] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.419] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.420] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.430] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.431] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.443] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.444] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.515] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.522] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.523] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.547] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.547] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.551] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.552] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.557] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.557] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.563] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.564] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.570] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.571] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.579] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.579] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.588] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.589] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.598] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.598] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.610] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.610] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.622] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.622] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.635] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.635] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.649] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.650] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.670] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.674] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.674] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.679] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.679] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.685] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.686] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.692] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.692] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.699] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.700] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.708] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.708] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.717] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.717] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.727] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.728] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.739] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.739] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.751] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.751] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.764] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.764] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.783] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.786] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.787] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.791] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.791] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.796] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.796] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.802] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.803] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.809] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.810] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.818] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.818] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.827] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.828] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.838] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.839] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.849] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.850] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.862] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.862] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.875] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.876] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.890] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.891] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.990] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.993] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.994] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:17.998] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:17.999] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.004] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.004] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.010] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.011] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.018] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.018] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.026] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.026] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.035] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.035] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.045] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.045] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.056] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.056] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.068] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.068] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.081] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.081] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.095] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.096] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.116] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.120] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.121] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.125] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.126] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.131] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.131] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.138] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.138] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.146] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.146] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.155] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.156] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.166] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.167] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.177] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.177] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.189] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.189] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.202] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.202] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.217] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.217] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.238] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.242] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.242] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.247] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.247] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.253] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.254] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.260] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.261] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.267] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.268] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.276] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.277] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.287] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.288] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.301] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.301] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.313] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.313] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.325] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.326] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.339] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.340] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:18.353] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:18.354] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.053] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.061] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.062] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.071] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.072] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.082] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.083] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.093] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.094] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.104] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.105] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.117] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.118] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.502] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.510] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.511] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.520] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.521] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.530] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.531] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.540] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.541] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.552] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.553] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.744] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.753] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.754] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.794] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.803] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.804] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.811] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.812] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.821] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.822] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.832] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.833] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.844] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.845] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:19.856] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:19.857] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.175] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.183] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.191] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.192] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.230] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.238] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.246] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.247] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.255] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.256] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.265] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.266] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.276] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.277] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.288] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.289] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.330] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.337] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.346] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.347] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.355] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.356] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.365] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.366] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.376] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.377] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.388] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.389] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.440] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.448] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.449] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.457] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.458] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.466] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.467] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.476] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.477] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.487] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.488] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.532] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.540] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.541] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.549] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.550] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.559] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.560] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.569] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.570] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.581] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.582] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.594] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.595] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.641] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.649] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.650] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.658] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.659] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.668] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.669] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.679] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.680] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.691] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.692] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.703] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.704] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.751] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.759] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.760] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.767] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.768] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.777] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.778] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.787] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.788] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.799] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.800] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.811] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.812] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:20.955] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.963] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:20.964] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.006] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.013] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.022] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.023] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.031] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.032] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.041] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.042] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.052] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.053] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.065] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.066] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.642] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.650] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.658] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.659] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.667] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.668] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.678] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.678] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.689] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.690] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.701] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.702] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.752] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.760] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.761] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.802] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.810] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.811] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.820] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.820] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.830] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.831] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.842] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.843] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.854] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.855] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:21.866] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:21.867] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.611] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.619] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.620] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.628] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.629] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.637] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.638] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.647] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.648] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.659] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.660] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.672] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.673] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.717] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.725] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.726] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.733] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.734] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.743] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.744] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.753] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.754] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.764] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.765] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.776] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.777] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.822] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.830] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.831] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.839] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.840] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.848] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.849] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.859] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.860] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.912] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.920] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.921] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.929] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.930] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.939] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.940] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.950] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.951] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:22.962] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:22.963] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.005] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.012] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.021] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.021] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.191] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.199] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.200] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.207] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.208] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.217] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.218] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.228] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.229] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.240] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.241] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.253] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.254] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.488] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.496] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.497] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.657] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.665] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.666] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.674] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.675] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.685] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.686] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.734] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.742] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.743] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.750] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.751] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.760] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.761] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.770] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.771] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.782] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.782] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.794] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.795] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.840] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.847] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.856] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.857] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.900] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.908] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.909] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.917] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.918] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.927] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.928] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.938] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.939] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.950] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.950] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:23.962] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:23.963] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.011] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.019] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.020] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.028] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.029] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.038] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.039] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.049] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.050] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.060] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.061] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.073] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.074] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.193] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.201] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.209] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.210] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.218] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.219] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.228] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.229] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.239] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.240] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.251] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.252] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.293] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.301] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.309] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.310] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.318] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.319] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.328] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.329] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.339] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.340] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.351] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.352] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:24.565] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.573] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R04
+[2025-06-21 18:58:24.574] [multi_logger] [error] [atx.cpp:280] Not defined frequency code R06
+[2025-06-21 18:58:25.515] [multi_logger] [warning] [ifcb.cpp:98] t_ifcb::decode_data unknown ifcb-data message % UPD generated using upd_IFCB
+
+[2025-06-21 18:58:25.588] [multi_logger] [warning] [ifcb.cpp:90] t_ifcb::decode_data End of file EOF
+
+[2025-06-21 18:58:25.595] [multi_logger] [info] [rinexc.cpp:60] version = 3.04
+[2025-06-21 18:58:26.962] [multi_logger] [info] [rinexn.cpp:142] reading VER: 3.04 SYS: M
+[2025-06-21 18:58:27.751] [multi_logger] [warning] [sp3.cpp:101] unknown record
+[2025-06-21 18:58:27.840] [multi_logger] [warning] Unrecognized input format, skipped: 12
+[2025-06-21 18:58:27.840] [multi_logger] [warning] Unrecognized input format, skipped: 12
+[2025-06-21 18:58:27.840] [multi_logger] [warning] Unrecognized input format, skipped: 12
+[2025-06-21 18:58:28.346] [multi_logger] [info] Start processing station: ALGO
+[2025-06-21 18:58:28] [I] [125 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigCodeGPS 
+[2025-06-21 18:58:28] [I] [127 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigCodeGLO 
+[2025-06-21 18:58:28] [I] [129 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigCodeGAL 
+[2025-06-21 18:58:28] [I] [131 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigCodeBDS 
+[2025-06-21 18:58:28] [I] [133 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigCodeQZS 
+[2025-06-21 18:58:28] [I] [135 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigPhaseGPS
+[2025-06-21 18:58:28] [I] [137 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigPhaseGLO
+[2025-06-21 18:58:28] [I] [139 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigPhaseGAL
+[2025-06-21 18:58:28] [I] [141 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigPhaseBDS
+[2025-06-21 18:58:28] [I] [143 ] <great::t_gbiasmodel::t_gbiasmodel       > : sigPhaseQZS
+[2025-06-21 18:58:28] [I] [84  ] <great::t_gcombmodel::t_gcombmodel       > : sigCodeGPS       0.60000000
+[2025-06-21 18:58:28] [I] [86  ] <great::t_gcombmodel::t_gcombmodel       > : sigCodeGLO       0.60000000
+[2025-06-21 18:58:28] [I] [88  ] <great::t_gcombmodel::t_gcombmodel       > : sigCodeGAL       0.60000000
+[2025-06-21 18:58:28] [I] [90  ] <great::t_gcombmodel::t_gcombmodel       > : sigCodeBDS       0.60000000
+[2025-06-21 18:58:28] [I] [92  ] <great::t_gcombmodel::t_gcombmodel       > : sigCodeQZS       0.60000000
+[2025-06-21 18:58:28] [I] [94  ] <great::t_gcombmodel::t_gcombmodel       > : sigPhaseGPS      0.01000000
+[2025-06-21 18:58:28] [I] [96  ] <great::t_gcombmodel::t_gcombmodel       > : sigPhaseGLO      0.01000000
+[2025-06-21 18:58:28] [I] [98  ] <great::t_gcombmodel::t_gcombmodel       > : sigPhaseGAL      0.01000000
+[2025-06-21 18:58:28] [I] [100 ] <great::t_gcombmodel::t_gcombmodel       > : sigPhaseBDS      0.01000000
+[2025-06-21 18:58:28] [I] [102 ] <great::t_gcombmodel::t_gcombmodel       > : sigPhaseQZS      0.01000000
+[2025-06-21 18:58:28] [I] [1968] <great::t_gpvtflt::InitProc              > : t_gpvtflt
+[2025-06-21 18:58:28] [I] [1884] <great::t_gpvtflt::processBatch          > : ALGO: Start GNSS Processing filtering:  2023-11-01 00:00:00[GPS]  2023-11-01 23:59:59[GPS]
+[2025-06-21 18:58:28] [I] [3398] <great::t_gpvtflt::_check_sat            > : prepareData: erasing data since _satPos failed, epo:  00:00:00, prn: G04
+[2025-06-21 18:58:28] [I] [3398] <great::t_gpvtflt::_check_sat            > : prepareData: erasing data since _satPos failed, epo:  00:00:00, prn: G07
+[2025-06-21 18:58:28] [I] [3398] <great::t_gpvtflt::_check_sat            > : prepareData: erasing data since _satPos failed, epo:  00:00:00, prn: G08
+[2025-06-21 18:58:28] [I] [3398] <great::t_gpvtflt::_check_sat            > : prepareData: erasing data since _satPos failed, epo:  00:00:00, prn: G09
+[2025-06-21 18:58:28] [I] [3398] <great::t_gpvtflt::_check_sat            > : prepareData: erasing data since _satPos failed, epo:  00:00:00, prn: G16
+[2025-06-21 18:58:28] [I] [3398] <great::t_gpvtflt::_check_sat            > : prepareData: erasing data since _satPos failed, epo:  00:00:00, prn: G26
+[2025-06-21 18:58:28] [I] [3398] <great::t_gpvtflt::_check_sat            > : prepareData: erasing data since _satPos failed, epo:  00:00:00, prn: G27
+[2025-06-21 18:58:28] [I] [3398] <great::t_gpvtflt::_check_sat            > : prepareData: erasing data since _satPos failed, epo:  00:00:00, prn: G30
+[2025-06-21 18:58:28] [I] [970 ] <great::t_gpvtflt::_preprocess           > : ALGO epoch  2023-11-01 00:00:00[GPS] skipped (Bancroft not calculated: 0 < _minsat: 5)
+[2025-06-21 18:58:28] [I] [884 ] <great::t_gpvtflt::_prepareData          > : ALGO: Preparing data failed!
+[2025-06-21 18:58:28] [I] [915 ] <great::t_gpvtflt::_prepareData          > : ALGO epoch  2023-11-01 00:00:00[GPS]0 skipped (data.size < minsat)
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G04 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G04 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G07 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G07 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G09 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G09 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G16 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G16 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G26 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G26 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G27 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G27 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G30 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G30 Epoch:  2023-11-01 00:00:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G21 Epoch:  2023-11-01 00:03:00[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G21 Epoch:  2023-11-01 00:03:00[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 6.9)  2023-11-01 00:10:30[GPS]
+[2025-06-21 18:58:28] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G26 Epoch:  2023-11-01 00:10:30[GPS]
+[2025-06-21 18:58:28] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G26 Epoch:  2023-11-01 00:10:30[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 6.8)  2023-11-01 00:11:00[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 6.6)  2023-11-01 00:11:30[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 6.5)  2023-11-01 00:12:00[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 6.3)  2023-11-01 00:12:30[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 6.1)  2023-11-01 00:13:00[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 6.0)  2023-11-01 00:13:30[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 5.8)  2023-11-01 00:14:00[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 5.6)  2023-11-01 00:14:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G02 Epoch:  2023-11-01 00:14:30[GPS]
+[2025-06-21 18:58:28] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G02 Epoch:  2023-11-01 00:14:30[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 5.5)  2023-11-01 00:15:00[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 5.3)  2023-11-01 00:15:30[GPS]
+[2025-06-21 18:58:28] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G26 data due to low elevation angle (ele = 5.1)  2023-11-01 00:16:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 5.2)  2023-11-01 00:18:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 5.3)  2023-11-01 00:18:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 5.5)  2023-11-01 00:19:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 5.7)  2023-11-01 00:19:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 5.8)  2023-11-01 00:20:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.0)  2023-11-01 00:20:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.1)  2023-11-01 00:21:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.3)  2023-11-01 00:21:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.5)  2023-11-01 00:22:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.6)  2023-11-01 00:22:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.8)  2023-11-01 00:23:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 7.0)  2023-11-01 00:23:30[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G14 Epoch:  2023-11-01 00:24:00[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G14 Epoch:  2023-11-01 00:24:00[GPS]
+[2025-06-21 18:58:29] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G04 Epoch:  2023-11-01 00:47:30[GPS]
+[2025-06-21 18:58:29] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G04 Epoch:  2023-11-01 00:47:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.9)  2023-11-01 00:49:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.7)  2023-11-01 00:50:00[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G01 Epoch:  2023-11-01 01:01:30[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G01 Epoch:  2023-11-01 01:01:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G22 data due to low elevation angle (ele = 5.8)  2023-11-01 01:06:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G22 data due to low elevation angle (ele = 6.0)  2023-11-01 01:07:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G22 data due to low elevation angle (ele = 6.1)  2023-11-01 01:07:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G22 data due to low elevation angle (ele = 6.3)  2023-11-01 01:08:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G22 data due to low elevation angle (ele = 6.5)  2023-11-01 01:08:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G22 data due to low elevation angle (ele = 6.6)  2023-11-01 01:09:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G22 data due to low elevation angle (ele = 6.8)  2023-11-01 01:09:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G22 data due to low elevation angle (ele = 7.0)  2023-11-01 01:10:00[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G22 Epoch:  2023-11-01 01:10:30[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G22 Epoch:  2023-11-01 01:10:30[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 01:13:00[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 01:13:00[GPS]
+[2025-06-21 18:58:29] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 01:16:00[GPS]
+[2025-06-21 18:58:29] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 01:16:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 7.0)  2023-11-01 01:16:30[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 01:16:30[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 01:16:30[GPS]
+[2025-06-21 18:58:29] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G16 Epoch:  2023-11-01 01:16:30[GPS]
+[2025-06-21 18:58:29] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G16 Epoch:  2023-11-01 01:16:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 6.8)  2023-11-01 01:17:00[GPS]
+[2025-06-21 18:58:29] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 01:17:00[GPS]
+[2025-06-21 18:58:29] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 01:17:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 6.7)  2023-11-01 01:17:30[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 01:17:30[GPS]
+[2025-06-21 18:58:29] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 01:17:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 6.5)  2023-11-01 01:18:00[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 6.3)  2023-11-01 01:18:30[GPS]
+[2025-06-21 18:58:29] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 6.2)  2023-11-01 01:19:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 6.0)  2023-11-01 01:19:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 5.9)  2023-11-01 01:20:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 5.7)  2023-11-01 01:20:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 5.5)  2023-11-01 01:21:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 5.4)  2023-11-01 01:21:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 5.2)  2023-11-01 01:22:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G16 data due to low elevation angle (ele = 5.1)  2023-11-01 01:22:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 5.5)  2023-11-01 01:29:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 5.7)  2023-11-01 01:29:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 5.9)  2023-11-01 01:30:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.1)  2023-11-01 01:30:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.3)  2023-11-01 01:31:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.5)  2023-11-01 01:31:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.7)  2023-11-01 01:32:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.9)  2023-11-01 01:32:30[GPS]
+[2025-06-21 18:58:30] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G17 Epoch:  2023-11-01 01:33:00[GPS]
+[2025-06-21 18:58:30] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G17 Epoch:  2023-11-01 01:33:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.9)  2023-11-01 01:34:00[GPS]
+[2025-06-21 18:58:30] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G09 Epoch:  2023-11-01 01:34:00[GPS]
+[2025-06-21 18:58:30] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G09 Epoch:  2023-11-01 01:34:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.7)  2023-11-01 01:34:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.5)  2023-11-01 01:35:00[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.4)  2023-11-01 01:35:30[GPS]
+[2025-06-21 18:58:30] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.2)  2023-11-01 01:36:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.8)  2023-11-01 02:15:30[GPS]
+[2025-06-21 18:58:31] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G27 Epoch:  2023-11-01 02:15:30[GPS]
+[2025-06-21 18:58:31] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G27 Epoch:  2023-11-01 02:15:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.7)  2023-11-01 02:16:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.5)  2023-11-01 02:16:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.3)  2023-11-01 02:17:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.1)  2023-11-01 02:17:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.9)  2023-11-01 02:18:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.7)  2023-11-01 02:18:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.6)  2023-11-01 02:19:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.4)  2023-11-01 02:19:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.2)  2023-11-01 02:20:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.0)  2023-11-01 02:20:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 5.9)  2023-11-01 02:33:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.1)  2023-11-01 02:34:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.2)  2023-11-01 02:34:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.4)  2023-11-01 02:35:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.6)  2023-11-01 02:35:30[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.8)  2023-11-01 02:36:00[GPS]
+[2025-06-21 18:58:31] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 7.0)  2023-11-01 02:36:30[GPS]
+[2025-06-21 18:58:31] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G19 Epoch:  2023-11-01 02:37:00[GPS]
+[2025-06-21 18:58:31] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G19 Epoch:  2023-11-01 02:37:00[GPS]
+[2025-06-21 18:58:31] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G19 Epoch:  2023-11-01 02:48:30[GPS]
+[2025-06-21 18:58:31] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G19 Epoch:  2023-11-01 02:48:30[GPS]
+[2025-06-21 18:58:32] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G19 Epoch:  2023-11-01 03:21:00[GPS]
+[2025-06-21 18:58:32] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G19 Epoch:  2023-11-01 03:21:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.4)  2023-11-01 03:24:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.5)  2023-11-01 03:24:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.7)  2023-11-01 03:25:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.9)  2023-11-01 03:25:30[GPS]
+[2025-06-21 18:58:32] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G03 Epoch:  2023-11-01 03:26:00[GPS]
+[2025-06-21 18:58:32] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G03 Epoch:  2023-11-01 03:26:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 7.0)  2023-11-01 03:52:00[GPS]
+[2025-06-21 18:58:32] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 03:52:00[GPS]
+[2025-06-21 18:58:32] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 03:52:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.9)  2023-11-01 03:52:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.7)  2023-11-01 03:53:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.6)  2023-11-01 03:53:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.5)  2023-11-01 03:54:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.3)  2023-11-01 03:54:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.2)  2023-11-01 03:55:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 7.0)  2023-11-01 03:55:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.1)  2023-11-01 03:55:30[GPS]
+[2025-06-21 18:58:32] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G08 Epoch:  2023-11-01 03:55:30[GPS]
+[2025-06-21 18:58:32] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G08 Epoch:  2023-11-01 03:55:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.8)  2023-11-01 03:56:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.6)  2023-11-01 03:56:30[GPS]
+[2025-06-21 18:58:32] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G24 Epoch:  2023-11-01 03:56:30[GPS]
+[2025-06-21 18:58:32] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G24 Epoch:  2023-11-01 03:56:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.5)  2023-11-01 03:57:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.3)  2023-11-01 03:57:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 6.9)  2023-11-01 03:59:30[GPS]
+[2025-06-21 18:58:32] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G06 Epoch:  2023-11-01 04:00:00[GPS]
+[2025-06-21 18:58:32] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G06 Epoch:  2023-11-01 04:00:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.8)  2023-11-01 04:04:30[GPS]
+[2025-06-21 18:58:32] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G07 Epoch:  2023-11-01 04:04:30[GPS]
+[2025-06-21 18:58:32] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G07 Epoch:  2023-11-01 04:04:30[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.6)  2023-11-01 04:05:00[GPS]
+[2025-06-21 18:58:32] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.4)  2023-11-01 04:05:30[GPS]
+[2025-06-21 18:58:33] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G21 Epoch:  2023-11-01 04:44:00[GPS]
+[2025-06-21 18:58:33] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G21 Epoch:  2023-11-01 04:44:00[GPS]
+[2025-06-21 18:58:33] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G21 Epoch:  2023-11-01 04:45:00[GPS]
+[2025-06-21 18:58:33] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G21 Epoch:  2023-11-01 04:45:00[GPS]
+[2025-06-21 18:58:33] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G21 Epoch:  2023-11-01 04:45:30[GPS]
+[2025-06-21 18:58:33] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G21 Epoch:  2023-11-01 04:45:30[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G21 data due to low elevation angle (ele = 6.8)  2023-11-01 04:50:00[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G21 data due to low elevation angle (ele = 6.6)  2023-11-01 04:50:30[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G21 data due to low elevation angle (ele = 6.5)  2023-11-01 04:51:00[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G21 data due to low elevation angle (ele = 6.3)  2023-11-01 04:51:30[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G21 data due to low elevation angle (ele = 6.1)  2023-11-01 04:52:00[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G21 data due to low elevation angle (ele = 5.9)  2023-11-01 04:52:30[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.8)  2023-11-01 04:56:30[GPS]
+[2025-06-21 18:58:33] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G30 Epoch:  2023-11-01 04:56:30[GPS]
+[2025-06-21 18:58:33] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G30 Epoch:  2023-11-01 04:56:30[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.6)  2023-11-01 04:57:00[GPS]
+[2025-06-21 18:58:33] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.5)  2023-11-01 04:57:30[GPS]
+[2025-06-21 18:58:33] [I] [1784] <great::t_gpvtflt::_outlierDetect        > :  epoch  2023-11-01 05:09:30[GPS]ALGO outlier (C1) G01 v:            3.589
+[2025-06-21 18:58:33] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G01 Epoch:  2023-11-01 05:09:30[GPS]
+[2025-06-21 18:58:33] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G01 Epoch:  2023-11-01 05:09:30[GPS]
+[2025-06-21 18:58:33] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G01 Epoch:  2023-11-01 05:10:00[GPS]
+[2025-06-21 18:58:33] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G01 Epoch:  2023-11-01 05:10:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.1)  2023-11-01 05:15:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.2)  2023-11-01 05:15:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.4)  2023-11-01 05:16:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.6)  2023-11-01 05:16:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 7.0)  2023-11-01 05:17:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.8)  2023-11-01 05:17:00[GPS]
+[2025-06-21 18:58:34] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G02 Epoch:  2023-11-01 05:17:00[GPS]
+[2025-06-21 18:58:34] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G02 Epoch:  2023-11-01 05:17:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.8)  2023-11-01 05:17:30[GPS]
+[2025-06-21 18:58:34] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G11 Epoch:  2023-11-01 05:17:30[GPS]
+[2025-06-21 18:58:34] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G11 Epoch:  2023-11-01 05:17:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.6)  2023-11-01 05:18:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.4)  2023-11-01 05:18:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.3)  2023-11-01 05:19:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.1)  2023-11-01 05:19:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 5.9)  2023-11-01 05:20:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 5.7)  2023-11-01 05:20:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 5.5)  2023-11-01 05:21:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 5.4)  2023-11-01 05:21:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 5.2)  2023-11-01 05:22:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 5.0)  2023-11-01 05:22:30[GPS]
+[2025-06-21 18:58:34] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G12 Epoch:  2023-11-01 05:35:00[GPS]
+[2025-06-21 18:58:34] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G12 Epoch:  2023-11-01 05:35:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.9)  2023-11-01 05:51:30[GPS]
+[2025-06-21 18:58:34] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G01 Epoch:  2023-11-01 05:51:30[GPS]
+[2025-06-21 18:58:34] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G01 Epoch:  2023-11-01 05:51:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.7)  2023-11-01 05:52:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.6)  2023-11-01 05:52:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.4)  2023-11-01 05:53:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.2)  2023-11-01 05:53:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.0)  2023-11-01 05:54:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.8)  2023-11-01 05:54:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.6)  2023-11-01 05:55:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.4)  2023-11-01 05:55:30[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.2)  2023-11-01 05:56:00[GPS]
+[2025-06-21 18:58:34] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.0)  2023-11-01 05:56:30[GPS]
+[2025-06-21 18:58:35] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G20 Epoch:  2023-11-01 06:28:30[GPS]
+[2025-06-21 18:58:35] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G20 Epoch:  2023-11-01 06:28:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 5.1)  2023-11-01 06:38:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 5.2)  2023-11-01 06:39:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 5.3)  2023-11-01 06:39:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 5.5)  2023-11-01 06:40:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 5.6)  2023-11-01 06:40:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 5.7)  2023-11-01 06:41:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 5.8)  2023-11-01 06:41:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 5.9)  2023-11-01 06:42:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.0)  2023-11-01 06:42:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.1)  2023-11-01 06:43:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.2)  2023-11-01 06:43:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.4)  2023-11-01 06:44:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.5)  2023-11-01 06:44:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.6)  2023-11-01 06:45:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.7)  2023-11-01 06:45:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.8)  2023-11-01 06:46:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.9)  2023-11-01 06:46:30[GPS]
+[2025-06-21 18:58:35] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G14 Epoch:  2023-11-01 06:46:30[GPS]
+[2025-06-21 18:58:35] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G14 Epoch:  2023-11-01 06:46:30[GPS]
+[2025-06-21 18:58:35] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G04 Epoch:  2023-11-01 06:47:00[GPS]
+[2025-06-21 18:58:35] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G04 Epoch:  2023-11-01 06:47:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 5.2)  2023-11-01 06:48:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 5.4)  2023-11-01 06:48:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.9)  2023-11-01 06:48:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 5.5)  2023-11-01 06:49:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.7)  2023-11-01 06:49:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 5.6)  2023-11-01 06:49:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G14 data due to low elevation angle (ele = 6.5)  2023-11-01 06:49:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 5.8)  2023-11-01 06:50:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 5.9)  2023-11-01 06:50:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.1)  2023-11-01 06:51:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.9)  2023-11-01 06:51:00[GPS]
+[2025-06-21 18:58:35] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G24 Epoch:  2023-11-01 06:51:00[GPS]
+[2025-06-21 18:58:35] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G24 Epoch:  2023-11-01 06:51:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.2)  2023-11-01 06:51:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.8)  2023-11-01 06:51:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.4)  2023-11-01 06:52:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.7)  2023-11-01 06:52:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.5)  2023-11-01 06:52:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.6)  2023-11-01 06:52:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.7)  2023-11-01 06:53:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.4)  2023-11-01 06:53:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.8)  2023-11-01 06:53:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.3)  2023-11-01 06:53:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.9)  2023-11-01 06:54:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.2)  2023-11-01 06:54:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.0)  2023-11-01 06:54:30[GPS]
+[2025-06-21 18:58:35] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G09 Epoch:  2023-11-01 06:54:30[GPS]
+[2025-06-21 18:58:35] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G09 Epoch:  2023-11-01 06:54:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 5.9)  2023-11-01 06:55:00[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 5.8)  2023-11-01 06:55:30[GPS]
+[2025-06-21 18:58:35] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 5.6)  2023-11-01 06:56:00[GPS]
+[2025-06-21 18:58:35] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G25 Epoch:  2023-11-01 06:59:00[GPS]
+[2025-06-21 18:58:35] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G25 Epoch:  2023-11-01 06:59:00[GPS]
+[2025-06-21 18:58:36] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G03 Epoch:  2023-11-01 07:18:30[GPS]
+[2025-06-21 18:58:36] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G03 Epoch:  2023-11-01 07:18:30[GPS]
+[2025-06-21 18:58:36] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G22 Epoch:  2023-11-01 07:28:30[GPS]
+[2025-06-21 18:58:36] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G22 Epoch:  2023-11-01 07:28:30[GPS]
+[2025-06-21 18:58:36] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 6.7)  2023-11-01 07:42:30[GPS]
+[2025-06-21 18:58:36] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 6.9)  2023-11-01 07:43:00[GPS]
+[2025-06-21 18:58:36] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G05 Epoch:  2023-11-01 07:43:30[GPS]
+[2025-06-21 18:58:36] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G05 Epoch:  2023-11-01 07:43:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.3)  2023-11-01 08:22:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.5)  2023-11-01 08:22:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.7)  2023-11-01 08:23:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.9)  2023-11-01 08:23:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.0)  2023-11-01 08:24:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.2)  2023-11-01 08:24:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.4)  2023-11-01 08:25:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.6)  2023-11-01 08:25:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 7.0)  2023-11-01 08:27:00[GPS]
+[2025-06-21 18:58:37] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G17 Epoch:  2023-11-01 08:27:00[GPS]
+[2025-06-21 18:58:37] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G17 Epoch:  2023-11-01 08:27:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.8)  2023-11-01 08:27:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.6)  2023-11-01 08:28:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.4)  2023-11-01 08:28:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.2)  2023-11-01 08:29:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 6.0)  2023-11-01 08:29:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 5.8)  2023-11-01 08:30:00[GPS]
+[2025-06-21 18:58:37] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G29 Epoch:  2023-11-01 08:30:00[GPS]
+[2025-06-21 18:58:37] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G29 Epoch:  2023-11-01 08:30:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 5.6)  2023-11-01 08:30:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 5.5)  2023-11-01 08:31:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 5.3)  2023-11-01 08:31:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G17 data due to low elevation angle (ele = 5.1)  2023-11-01 08:32:00[GPS]
+[2025-06-21 18:58:37] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G04 Epoch:  2023-11-01 08:46:30[GPS]
+[2025-06-21 18:58:37] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G04 Epoch:  2023-11-01 08:46:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 7.0)  2023-11-01 09:18:30[GPS]
+[2025-06-21 18:58:37] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G19 Epoch:  2023-11-01 09:18:30[GPS]
+[2025-06-21 18:58:37] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G19 Epoch:  2023-11-01 09:18:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.8)  2023-11-01 09:19:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.6)  2023-11-01 09:19:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.4)  2023-11-01 09:20:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.2)  2023-11-01 09:20:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 6.0)  2023-11-01 09:21:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 5.8)  2023-11-01 09:21:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 5.6)  2023-11-01 09:22:00[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 5.4)  2023-11-01 09:22:30[GPS]
+[2025-06-21 18:58:37] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G19 data due to low elevation angle (ele = 5.2)  2023-11-01 09:23:00[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 09:34:30[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 09:34:30[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G25 Epoch:  2023-11-01 10:01:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G25 Epoch:  2023-11-01 10:01:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G09 Epoch:  2023-11-01 10:03:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G09 Epoch:  2023-11-01 10:03:00[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G09 Epoch:  2023-11-01 10:03:30[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G09 Epoch:  2023-11-01 10:03:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 7.0)  2023-11-01 10:07:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G09 Epoch:  2023-11-01 10:07:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G09 Epoch:  2023-11-01 10:07:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.1)  2023-11-01 10:09:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.3)  2023-11-01 10:09:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.5)  2023-11-01 10:10:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.7)  2023-11-01 10:10:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.9)  2023-11-01 10:11:00[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G15 Epoch:  2023-11-01 10:11:30[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G15 Epoch:  2023-11-01 10:11:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.8)  2023-11-01 10:13:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G12 Epoch:  2023-11-01 10:13:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G12 Epoch:  2023-11-01 10:13:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.7)  2023-11-01 10:13:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.5)  2023-11-01 10:14:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.3)  2023-11-01 10:14:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.1)  2023-11-01 10:15:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.0)  2023-11-01 10:15:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 5.8)  2023-11-01 10:16:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 5.6)  2023-11-01 10:16:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 5.4)  2023-11-01 10:17:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 5.3)  2023-11-01 10:17:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.3)  2023-11-01 10:17:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.5)  2023-11-01 10:18:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.6)  2023-11-01 10:18:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.8)  2023-11-01 10:19:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.0)  2023-11-01 10:19:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.1)  2023-11-01 10:20:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.3)  2023-11-01 10:20:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.5)  2023-11-01 10:21:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.7)  2023-11-01 10:21:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.8)  2023-11-01 10:22:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 7.0)  2023-11-01 10:22:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 4.6)  2023-11-01 10:23:00[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G18 Epoch:  2023-11-01 10:23:00[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G18 Epoch:  2023-11-01 10:23:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.1)  2023-11-01 10:26:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.2)  2023-11-01 10:26:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.3)  2023-11-01 10:27:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.3)  2023-11-01 10:27:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.4)  2023-11-01 10:28:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.5)  2023-11-01 10:28:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.6)  2023-11-01 10:29:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.6)  2023-11-01 10:29:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.7)  2023-11-01 10:30:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.8)  2023-11-01 10:30:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.8)  2023-11-01 10:31:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 5.9)  2023-11-01 10:31:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.0)  2023-11-01 10:32:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.0)  2023-11-01 10:32:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.1)  2023-11-01 10:33:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.2)  2023-11-01 10:33:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 6.9)  2023-11-01 10:34:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.2)  2023-11-01 10:34:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G06 Epoch:  2023-11-01 10:34:00[GPS]
+[2025-06-21 18:58:38] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G06 Epoch:  2023-11-01 10:34:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 6.8)  2023-11-01 10:34:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.3)  2023-11-01 10:34:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 6.6)  2023-11-01 10:35:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.4)  2023-11-01 10:35:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 6.4)  2023-11-01 10:35:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.4)  2023-11-01 10:35:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 6.3)  2023-11-01 10:36:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.5)  2023-11-01 10:36:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 6.1)  2023-11-01 10:36:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.6)  2023-11-01 10:36:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 5.1)  2023-11-01 10:36:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 5.9)  2023-11-01 10:37:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.6)  2023-11-01 10:37:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 5.2)  2023-11-01 10:37:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 5.8)  2023-11-01 10:37:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.7)  2023-11-01 10:37:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 5.3)  2023-11-01 10:37:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 5.6)  2023-11-01 10:38:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.7)  2023-11-01 10:38:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 5.5)  2023-11-01 10:38:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 5.4)  2023-11-01 10:38:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.8)  2023-11-01 10:38:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 5.6)  2023-11-01 10:38:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 5.3)  2023-11-01 10:39:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.9)  2023-11-01 10:39:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 5.7)  2023-11-01 10:39:00[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G25 Epoch:  2023-11-01 10:39:00[GPS]
+[2025-06-21 18:58:38] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G25 Epoch:  2023-11-01 10:39:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G06 data due to low elevation angle (ele = 5.1)  2023-11-01 10:39:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.9)  2023-11-01 10:39:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 5.8)  2023-11-01 10:39:30[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 7.0)  2023-11-01 10:40:00[GPS]
+[2025-06-21 18:58:38] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 5.9)  2023-11-01 10:40:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.0)  2023-11-01 10:40:30[GPS]
+[2025-06-21 18:58:39] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G07 Epoch:  2023-11-01 10:40:30[GPS]
+[2025-06-21 18:58:39] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G07 Epoch:  2023-11-01 10:40:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.1)  2023-11-01 10:41:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.3)  2023-11-01 10:41:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.4)  2023-11-01 10:42:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.5)  2023-11-01 10:42:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.6)  2023-11-01 10:43:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.7)  2023-11-01 10:43:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 7.0)  2023-11-01 10:44:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.8)  2023-11-01 10:44:00[GPS]
+[2025-06-21 18:58:39] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G25 Epoch:  2023-11-01 10:44:00[GPS]
+[2025-06-21 18:58:39] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G25 Epoch:  2023-11-01 10:44:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.8)  2023-11-01 10:44:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.9)  2023-11-01 10:44:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.7)  2023-11-01 10:45:00[GPS]
+[2025-06-21 18:58:39] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G30 Epoch:  2023-11-01 10:45:00[GPS]
+[2025-06-21 18:58:39] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G30 Epoch:  2023-11-01 10:45:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.5)  2023-11-01 10:45:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.4)  2023-11-01 10:46:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.2)  2023-11-01 10:46:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.1)  2023-11-01 10:47:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 5.9)  2023-11-01 10:47:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 5.8)  2023-11-01 10:48:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 5.6)  2023-11-01 10:48:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 5.4)  2023-11-01 10:49:00[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 5.3)  2023-11-01 10:49:30[GPS]
+[2025-06-21 18:58:39] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 5.1)  2023-11-01 10:50:00[GPS]
+[2025-06-21 18:58:39] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G23 Epoch:  2023-11-01 11:32:30[GPS]
+[2025-06-21 18:58:39] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G23 Epoch:  2023-11-01 11:32:30[GPS]
+[2025-06-21 18:58:39] [I] [2661] <great::t_gpvtflt::_udAmb                > : Warning: amb_obs switched silently!G23  11:33:00
+[2025-06-21 18:58:39] [I] [2661] <great::t_gpvtflt::_udAmb                > : Warning: amb_obs switched silently!G23  11:33:00
+[2025-06-21 18:58:39] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G07 Epoch:  2023-11-01 11:36:30[GPS]
+[2025-06-21 18:58:39] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G07 Epoch:  2023-11-01 11:36:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.9)  2023-11-01 12:03:30[GPS]
+[2025-06-21 18:58:40] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G11 Epoch:  2023-11-01 12:03:30[GPS]
+[2025-06-21 18:58:40] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G11 Epoch:  2023-11-01 12:03:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.7)  2023-11-01 12:04:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.5)  2023-11-01 12:04:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.3)  2023-11-01 12:05:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 6.1)  2023-11-01 12:05:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 5.9)  2023-11-01 12:06:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 5.8)  2023-11-01 12:06:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 5.6)  2023-11-01 12:07:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 5.4)  2023-11-01 12:07:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 5.2)  2023-11-01 12:08:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G11 data due to low elevation angle (ele = 5.0)  2023-11-01 12:08:30[GPS]
+[2025-06-21 18:58:40] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G24 Epoch:  2023-11-01 12:22:30[GPS]
+[2025-06-21 18:58:40] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G24 Epoch:  2023-11-01 12:22:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.9)  2023-11-01 12:38:30[GPS]
+[2025-06-21 18:58:40] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G27 Epoch:  2023-11-01 12:43:00[GPS]
+[2025-06-21 18:58:40] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G27 Epoch:  2023-11-01 12:43:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 5.6)  2023-11-01 12:46:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 5.7)  2023-11-01 12:46:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 7.0)  2023-11-01 12:46:30[GPS]
+[2025-06-21 18:58:40] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G20 Epoch:  2023-11-01 12:46:30[GPS]
+[2025-06-21 18:58:40] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G20 Epoch:  2023-11-01 12:46:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 5.9)  2023-11-01 12:47:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 6.8)  2023-11-01 12:47:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 6.1)  2023-11-01 12:47:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 6.7)  2023-11-01 12:47:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 6.2)  2023-11-01 12:48:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 6.5)  2023-11-01 12:48:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 6.4)  2023-11-01 12:48:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 6.3)  2023-11-01 12:48:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 6.5)  2023-11-01 12:49:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 6.2)  2023-11-01 12:49:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 6.7)  2023-11-01 12:49:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 6.0)  2023-11-01 12:49:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G10 data due to low elevation angle (ele = 6.9)  2023-11-01 12:50:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 5.8)  2023-11-01 12:50:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 5.7)  2023-11-01 12:50:30[GPS]
+[2025-06-21 18:58:40] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G10 Epoch:  2023-11-01 12:50:30[GPS]
+[2025-06-21 18:58:40] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G10 Epoch:  2023-11-01 12:50:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 5.5)  2023-11-01 12:51:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 5.3)  2023-11-01 12:51:30[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 5.2)  2023-11-01 12:52:00[GPS]
+[2025-06-21 18:58:40] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G20 data due to low elevation angle (ele = 5.0)  2023-11-01 12:52:30[GPS]
+[2025-06-21 18:58:41] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G30 Epoch:  2023-11-01 13:01:00[GPS]
+[2025-06-21 18:58:41] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G30 Epoch:  2023-11-01 13:01:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.8)  2023-11-01 13:35:00[GPS]
+[2025-06-21 18:58:41] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G29 Epoch:  2023-11-01 13:35:00[GPS]
+[2025-06-21 18:58:41] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G29 Epoch:  2023-11-01 13:35:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.6)  2023-11-01 13:35:30[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.4)  2023-11-01 13:36:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.3)  2023-11-01 13:36:30[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.1)  2023-11-01 13:37:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.9)  2023-11-01 13:37:30[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.7)  2023-11-01 13:38:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.3)  2023-11-01 13:39:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 5.1)  2023-11-01 13:57:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 5.3)  2023-11-01 13:57:30[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 5.5)  2023-11-01 13:58:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 5.7)  2023-11-01 13:58:30[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 5.8)  2023-11-01 13:59:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.0)  2023-11-01 13:59:30[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.2)  2023-11-01 14:00:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.4)  2023-11-01 14:00:30[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.6)  2023-11-01 14:01:00[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.8)  2023-11-01 14:01:30[GPS]
+[2025-06-21 18:58:41] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.9)  2023-11-01 14:02:00[GPS]
+[2025-06-21 18:58:41] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G32 Epoch:  2023-11-01 14:02:30[GPS]
+[2025-06-21 18:58:41] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G32 Epoch:  2023-11-01 14:02:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 6.9)  2023-11-01 14:12:30[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G05 Epoch:  2023-11-01 14:12:30[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G05 Epoch:  2023-11-01 14:12:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 6.7)  2023-11-01 14:13:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 6.6)  2023-11-01 14:13:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 6.4)  2023-11-01 14:14:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 6.2)  2023-11-01 14:14:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 6.1)  2023-11-01 14:15:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 5.9)  2023-11-01 14:15:30[GPS]
+[2025-06-21 18:58:42] [I] [1784] <great::t_gpvtflt::_outlierDetect        > :  epoch  2023-11-01 14:15:30[GPS]ALGO outlier (C1) G13 v:            3.012
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 14:15:30[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 14:15:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 5.7)  2023-11-01 14:16:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.8)  2023-11-01 14:16:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 14:16:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G13 Epoch:  2023-11-01 14:16:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 5.6)  2023-11-01 14:16:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.8)  2023-11-01 14:16:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 5.4)  2023-11-01 14:17:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.9)  2023-11-01 14:17:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 5.2)  2023-11-01 14:17:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.9)  2023-11-01 14:17:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G05 data due to low elevation angle (ele = 5.0)  2023-11-01 14:18:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 7.0)  2023-11-01 14:18:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 14:22:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 14:22:00[GPS]
+[2025-06-21 18:58:42] [I] [1784] <great::t_gpvtflt::_outlierDetect        > :  epoch  2023-11-01 14:25:30[GPS]ALGO outlier (C1) G32 v:            4.151
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G32 Epoch:  2023-11-01 14:25:30[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G32 Epoch:  2023-11-01 14:25:30[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G32 Epoch:  2023-11-01 14:26:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G32 Epoch:  2023-11-01 14:26:00[GPS]
+[2025-06-21 18:58:42] [I] [1784] <great::t_gpvtflt::_outlierDetect        > :  epoch  2023-11-01 14:35:00[GPS]ALGO outlier (C1) G32 v:            5.072
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G32 Epoch:  2023-11-01 14:35:00[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G32 Epoch:  2023-11-01 14:35:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G32 Epoch:  2023-11-01 14:35:30[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G32 Epoch:  2023-11-01 14:35:30[GPS]
+[2025-06-21 18:58:42] [I] [1784] <great::t_gpvtflt::_outlierDetect        > :  epoch  2023-11-01 14:38:00[GPS]ALGO outlier (C1) G32 v:            3.626
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G32 Epoch:  2023-11-01 14:38:00[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G32 Epoch:  2023-11-01 14:38:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G32 Epoch:  2023-11-01 14:38:30[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G32 Epoch:  2023-11-01 14:38:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.9)  2023-11-01 14:39:00[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 14:39:00[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G13 Epoch:  2023-11-01 14:39:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.7)  2023-11-01 14:39:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.5)  2023-11-01 14:40:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.3)  2023-11-01 14:40:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 6.1)  2023-11-01 14:41:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 5.9)  2023-11-01 14:41:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 5.8)  2023-11-01 14:42:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 5.6)  2023-11-01 14:42:30[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 5.4)  2023-11-01 14:43:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G13 data due to low elevation angle (ele = 5.2)  2023-11-01 14:43:30[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G08 Epoch:  2023-11-01 15:10:30[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G08 Epoch:  2023-11-01 15:10:30[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 15:12:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 15:12:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G21 Epoch:  2023-11-01 15:12:30[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G21 Epoch:  2023-11-01 15:12:30[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G08 Epoch:  2023-11-01 15:15:00[GPS]
+[2025-06-21 18:58:42] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G08 Epoch:  2023-11-01 15:15:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 15:18:00[GPS]
+[2025-06-21 18:58:42] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 15:18:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 7.0)  2023-11-01 15:19:00[GPS]
+[2025-06-21 18:58:42] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.9)  2023-11-01 15:19:00[GPS]
+[2025-06-21 18:58:43] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G27 Epoch:  2023-11-01 15:19:00[GPS]
+[2025-06-21 18:58:43] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G27 Epoch:  2023-11-01 15:19:00[GPS]
+[2025-06-21 18:58:43] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G08 Epoch:  2023-11-01 15:19:00[GPS]
+[2025-06-21 18:58:43] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G08 Epoch:  2023-11-01 15:19:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.9)  2023-11-01 15:19:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.8)  2023-11-01 15:19:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.9)  2023-11-01 15:20:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.6)  2023-11-01 15:20:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.8)  2023-11-01 15:20:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.5)  2023-11-01 15:20:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.8)  2023-11-01 15:21:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 5.4)  2023-11-01 15:21:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.4)  2023-11-01 15:21:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.7)  2023-11-01 15:21:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 5.5)  2023-11-01 15:21:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.2)  2023-11-01 15:21:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.6)  2023-11-01 15:22:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 5.7)  2023-11-01 15:22:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.1)  2023-11-01 15:22:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.6)  2023-11-01 15:22:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 5.8)  2023-11-01 15:22:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 6.0)  2023-11-01 15:22:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.5)  2023-11-01 15:23:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.0)  2023-11-01 15:23:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.9)  2023-11-01 15:23:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.1)  2023-11-01 15:23:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.7)  2023-11-01 15:23:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.3)  2023-11-01 15:24:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.6)  2023-11-01 15:24:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.4)  2023-11-01 15:24:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.5)  2023-11-01 15:24:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.6)  2023-11-01 15:25:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.3)  2023-11-01 15:25:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.8)  2023-11-01 15:25:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.2)  2023-11-01 15:25:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G12 data due to low elevation angle (ele = 6.9)  2023-11-01 15:26:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G27 data due to low elevation angle (ele = 5.1)  2023-11-01 15:26:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.1)  2023-11-01 15:26:30[GPS]
+[2025-06-21 18:58:43] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G12 Epoch:  2023-11-01 15:26:30[GPS]
+[2025-06-21 18:58:43] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G12 Epoch:  2023-11-01 15:26:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 6.0)  2023-11-01 15:27:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 5.9)  2023-11-01 15:27:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 5.9)  2023-11-01 15:28:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 5.8)  2023-11-01 15:28:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 5.7)  2023-11-01 15:29:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G08 data due to low elevation angle (ele = 5.6)  2023-11-01 15:29:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.8)  2023-11-01 15:35:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 7.0)  2023-11-01 15:36:00[GPS]
+[2025-06-21 18:58:43] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G02 Epoch:  2023-11-01 15:38:30[GPS]
+[2025-06-21 18:58:43] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G02 Epoch:  2023-11-01 15:38:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 6.7)  2023-11-01 15:45:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 6.9)  2023-11-01 15:46:00[GPS]
+[2025-06-21 18:58:43] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G28 Epoch:  2023-11-01 15:46:30[GPS]
+[2025-06-21 18:58:43] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G28 Epoch:  2023-11-01 15:46:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.4)  2023-11-01 15:52:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.6)  2023-11-01 15:53:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 6.8)  2023-11-01 15:53:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G25 data due to low elevation angle (ele = 7.0)  2023-11-01 15:54:00[GPS]
+[2025-06-21 18:58:43] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G25 Epoch:  2023-11-01 15:54:30[GPS]
+[2025-06-21 18:58:43] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G25 Epoch:  2023-11-01 15:54:30[GPS]
+[2025-06-21 18:58:43] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G18 Epoch:  2023-11-01 16:07:30[GPS]
+[2025-06-21 18:58:43] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G18 Epoch:  2023-11-01 16:07:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.8)  2023-11-01 16:12:00[GPS]
+[2025-06-21 18:58:43] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G15 Epoch:  2023-11-01 16:12:00[GPS]
+[2025-06-21 18:58:43] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G15 Epoch:  2023-11-01 16:12:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.7)  2023-11-01 16:12:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.5)  2023-11-01 16:13:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.3)  2023-11-01 16:13:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.2)  2023-11-01 16:14:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 6.0)  2023-11-01 16:14:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 5.8)  2023-11-01 16:15:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 5.7)  2023-11-01 16:15:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 5.5)  2023-11-01 16:16:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 5.3)  2023-11-01 16:16:30[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 5.2)  2023-11-01 16:17:00[GPS]
+[2025-06-21 18:58:43] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G15 data due to low elevation angle (ele = 5.0)  2023-11-01 16:17:30[GPS]
+[2025-06-21 18:58:44] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G01 Epoch:  2023-11-01 16:27:30[GPS]
+[2025-06-21 18:58:44] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G01 Epoch:  2023-11-01 16:27:30[GPS]
+[2025-06-21 18:58:44] [I] [2661] <great::t_gpvtflt::_udAmb                > : Warning: amb_obs switched silently!G01  16:28:00
+[2025-06-21 18:58:44] [I] [2661] <great::t_gpvtflt::_udAmb                > : Warning: amb_obs switched silently!G01  16:28:00
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.2)  2023-11-01 16:43:00[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.4)  2023-11-01 16:43:30[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.6)  2023-11-01 16:44:00[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.8)  2023-11-01 16:44:30[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 7.0)  2023-11-01 16:45:00[GPS]
+[2025-06-21 18:58:44] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G31 Epoch:  2023-11-01 16:45:30[GPS]
+[2025-06-21 18:58:44] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G31 Epoch:  2023-11-01 16:45:30[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.8)  2023-11-01 17:18:30[GPS]
+[2025-06-21 18:58:44] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G24 Epoch:  2023-11-01 17:18:30[GPS]
+[2025-06-21 18:58:44] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G24 Epoch:  2023-11-01 17:18:30[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.6)  2023-11-01 17:19:00[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.4)  2023-11-01 17:19:30[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.3)  2023-11-01 17:20:00[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 6.1)  2023-11-01 17:20:30[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 5.9)  2023-11-01 17:21:00[GPS]
+[2025-06-21 18:58:44] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 5.7)  2023-11-01 17:21:30[GPS]
+[2025-06-21 18:58:45] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 5.5)  2023-11-01 17:22:00[GPS]
+[2025-06-21 18:58:45] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 5.3)  2023-11-01 17:22:30[GPS]
+[2025-06-21 18:58:45] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G24 data due to low elevation angle (ele = 5.1)  2023-11-01 17:23:00[GPS]
+[2025-06-21 18:58:45] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.8)  2023-11-01 17:46:30[GPS]
+[2025-06-21 18:58:45] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G03 Epoch:  2023-11-01 17:49:30[GPS]
+[2025-06-21 18:58:45] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G03 Epoch:  2023-11-01 17:49:30[GPS]
+[2025-06-21 18:58:45] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G23 data due to low elevation angle (ele = 7.0)  2023-11-01 17:51:00[GPS]
+[2025-06-21 18:58:45] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G23 Epoch:  2023-11-01 17:51:00[GPS]
+[2025-06-21 18:58:45] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G23 Epoch:  2023-11-01 17:51:00[GPS]
+[2025-06-21 18:58:45] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G23 data due to low elevation angle (ele = 6.8)  2023-11-01 17:51:30[GPS]
+[2025-06-21 18:58:45] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G23 data due to low elevation angle (ele = 6.6)  2023-11-01 17:52:00[GPS]
+[2025-06-21 18:58:45] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G26 Epoch:  2023-11-01 18:11:00[GPS]
+[2025-06-21 18:58:45] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G26 Epoch:  2023-11-01 18:11:00[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G21 Epoch:  2023-11-01 18:22:30[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G21 Epoch:  2023-11-01 18:22:30[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G02 Epoch:  2023-11-01 18:50:00[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G02 Epoch:  2023-11-01 18:50:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.9)  2023-11-01 18:51:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.8)  2023-11-01 18:51:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.7)  2023-11-01 18:52:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.5)  2023-11-01 18:52:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.4)  2023-11-01 18:53:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.2)  2023-11-01 18:53:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G02 data due to low elevation angle (ele = 6.1)  2023-11-01 18:54:00[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G12 Epoch:  2023-11-01 18:57:00[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G12 Epoch:  2023-11-01 18:57:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.2)  2023-11-01 18:59:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.3)  2023-11-01 18:59:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.5)  2023-11-01 19:00:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.6)  2023-11-01 19:00:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.7)  2023-11-01 19:01:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 5.9)  2023-11-01 19:01:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.0)  2023-11-01 19:02:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.2)  2023-11-01 19:02:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.3)  2023-11-01 19:03:00[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G10 Epoch:  2023-11-01 19:03:00[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G10 Epoch:  2023-11-01 19:03:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.4)  2023-11-01 19:03:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.6)  2023-11-01 19:04:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.7)  2023-11-01 19:04:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 6.9)  2023-11-01 19:05:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G29 data due to low elevation angle (ele = 7.0)  2023-11-01 19:05:30[GPS]
+[2025-06-21 18:58:46] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G29 Epoch:  2023-11-01 19:06:00[GPS]
+[2025-06-21 18:58:46] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G29 Epoch:  2023-11-01 19:06:00[GPS]
+[2025-06-21 18:58:46] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G16 Epoch:  2023-11-01 19:11:00[GPS]
+[2025-06-21 18:58:46] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G16 Epoch:  2023-11-01 19:11:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.4)  2023-11-01 19:12:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.6)  2023-11-01 19:12:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.7)  2023-11-01 19:13:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G04 data due to low elevation angle (ele = 6.9)  2023-11-01 19:13:30[GPS]
+[2025-06-21 18:58:46] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G04 Epoch:  2023-11-01 19:14:00[GPS]
+[2025-06-21 18:58:46] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G04 Epoch:  2023-11-01 19:14:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.9)  2023-11-01 19:17:30[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G01 Epoch:  2023-11-01 19:17:30[GPS]
+[2025-06-21 18:58:46] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G01 Epoch:  2023-11-01 19:17:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.8)  2023-11-01 19:18:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.7)  2023-11-01 19:18:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.5)  2023-11-01 19:19:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.4)  2023-11-01 19:19:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.2)  2023-11-01 19:20:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 6.1)  2023-11-01 19:20:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.9)  2023-11-01 19:21:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.8)  2023-11-01 19:21:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.6)  2023-11-01 19:22:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.5)  2023-11-01 19:22:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.3)  2023-11-01 19:23:00[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.2)  2023-11-01 19:23:30[GPS]
+[2025-06-21 18:58:46] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G01 data due to low elevation angle (ele = 5.0)  2023-11-01 19:24:00[GPS]
+[2025-06-21 18:58:47] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G25 Epoch:  2023-11-01 20:19:30[GPS]
+[2025-06-21 18:58:47] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G25 Epoch:  2023-11-01 20:19:30[GPS]
+[2025-06-21 18:58:47] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.5)  2023-11-01 20:32:30[GPS]
+[2025-06-21 18:58:47] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.7)  2023-11-01 20:33:00[GPS]
+[2025-06-21 18:58:47] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G09 data due to low elevation angle (ele = 6.9)  2023-11-01 20:33:30[GPS]
+[2025-06-21 18:58:48] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G09 Epoch:  2023-11-01 20:35:30[GPS]
+[2025-06-21 18:58:48] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G09 Epoch:  2023-11-01 20:35:30[GPS]
+[2025-06-21 18:58:48] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.8)  2023-11-01 20:51:30[GPS]
+[2025-06-21 18:58:48] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G32 Epoch:  2023-11-01 20:51:30[GPS]
+[2025-06-21 18:58:48] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G32 Epoch:  2023-11-01 20:51:30[GPS]
+[2025-06-21 18:58:48] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.6)  2023-11-01 20:52:00[GPS]
+[2025-06-21 18:58:48] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.5)  2023-11-01 20:52:30[GPS]
+[2025-06-21 18:58:48] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.3)  2023-11-01 20:53:00[GPS]
+[2025-06-21 18:58:48] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 6.1)  2023-11-01 20:53:30[GPS]
+[2025-06-21 18:58:48] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G32 data due to low elevation angle (ele = 5.9)  2023-11-01 20:54:00[GPS]
+[2025-06-21 18:58:48] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G27 Epoch:  2023-11-01 21:05:30[GPS]
+[2025-06-21 18:58:48] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G27 Epoch:  2023-11-01 21:05:30[GPS]
+[2025-06-21 18:58:48] [I] [2661] <great::t_gpvtflt::_udAmb                > : Warning: amb_obs switched silently!G27  21:06:00
+[2025-06-21 18:58:48] [I] [2661] <great::t_gpvtflt::_udAmb                > : Warning: amb_obs switched silently!G27  21:06:00
+[2025-06-21 18:58:49] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G29 Epoch:  2023-11-01 21:56:30[GPS]
+[2025-06-21 18:58:49] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G29 Epoch:  2023-11-01 21:56:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.5)  2023-11-01 22:01:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.7)  2023-11-01 22:02:00[GPS]
+[2025-06-21 18:58:49] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 22:02:00[GPS]
+[2025-06-21 18:58:49] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G08 Epoch:  2023-11-01 22:02:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G07 data due to low elevation angle (ele = 6.8)  2023-11-01 22:02:30[GPS]
+[2025-06-21 18:58:49] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G07 Epoch:  2023-11-01 22:03:00[GPS]
+[2025-06-21 18:58:49] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G07 Epoch:  2023-11-01 22:03:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.8)  2023-11-01 22:13:00[GPS]
+[2025-06-21 18:58:49] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G03 Epoch:  2023-11-01 22:13:00[GPS]
+[2025-06-21 18:58:49] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G03 Epoch:  2023-11-01 22:13:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.6)  2023-11-01 22:13:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.5)  2023-11-01 22:14:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.3)  2023-11-01 22:14:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 6.1)  2023-11-01 22:15:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 5.9)  2023-11-01 22:15:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 5.8)  2023-11-01 22:16:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 5.6)  2023-11-01 22:16:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 5.4)  2023-11-01 22:17:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 5.2)  2023-11-01 22:17:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G03 data due to low elevation angle (ele = 5.1)  2023-11-01 22:18:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 6.9)  2023-11-01 22:19:30[GPS]
+[2025-06-21 18:58:49] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G28 Epoch:  2023-11-01 22:19:30[GPS]
+[2025-06-21 18:58:49] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G28 Epoch:  2023-11-01 22:19:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 6.7)  2023-11-01 22:20:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 6.5)  2023-11-01 22:20:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 6.3)  2023-11-01 22:21:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 6.2)  2023-11-01 22:21:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 6.0)  2023-11-01 22:22:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 5.8)  2023-11-01 22:22:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 5.7)  2023-11-01 22:23:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 5.5)  2023-11-01 22:23:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.0)  2023-11-01 22:24:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 5.3)  2023-11-01 22:24:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.1)  2023-11-01 22:24:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 5.2)  2023-11-01 22:24:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.2)  2023-11-01 22:25:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G28 data due to low elevation angle (ele = 5.0)  2023-11-01 22:25:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.3)  2023-11-01 22:25:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.4)  2023-11-01 22:26:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.5)  2023-11-01 22:26:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.6)  2023-11-01 22:27:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.7)  2023-11-01 22:27:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.8)  2023-11-01 22:28:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 5.9)  2023-11-01 22:28:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.0)  2023-11-01 22:29:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.1)  2023-11-01 22:29:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.1)  2023-11-01 22:30:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.2)  2023-11-01 22:30:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.3)  2023-11-01 22:31:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.4)  2023-11-01 22:31:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.5)  2023-11-01 22:32:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.6)  2023-11-01 22:32:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.7)  2023-11-01 22:33:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.7)  2023-11-01 22:33:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.8)  2023-11-01 22:34:00[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 6.9)  2023-11-01 22:34:30[GPS]
+[2025-06-21 18:58:49] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G18 data due to low elevation angle (ele = 7.0)  2023-11-01 22:35:00[GPS]
+[2025-06-21 18:58:49] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G18 Epoch:  2023-11-01 22:35:30[GPS]
+[2025-06-21 18:58:49] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G18 Epoch:  2023-11-01 22:35:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.0)  2023-11-01 23:22:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.1)  2023-11-01 23:23:00[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.3)  2023-11-01 23:23:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.9)  2023-11-01 23:23:30[GPS]
+[2025-06-21 18:58:50] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G31 Epoch:  2023-11-01 23:23:30[GPS]
+[2025-06-21 18:58:50] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G31 Epoch:  2023-11-01 23:23:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.5)  2023-11-01 23:24:00[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.7)  2023-11-01 23:24:00[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.7)  2023-11-01 23:24:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.5)  2023-11-01 23:24:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G30 data due to low elevation angle (ele = 6.8)  2023-11-01 23:25:00[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.4)  2023-11-01 23:25:00[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.2)  2023-11-01 23:25:30[GPS]
+[2025-06-21 18:58:50] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G30 Epoch:  2023-11-01 23:25:30[GPS]
+[2025-06-21 18:58:50] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G30 Epoch:  2023-11-01 23:25:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 6.0)  2023-11-01 23:26:00[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 5.8)  2023-11-01 23:26:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 5.7)  2023-11-01 23:27:00[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 5.5)  2023-11-01 23:27:30[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 5.3)  2023-11-01 23:28:00[GPS]
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G31 data due to low elevation angle (ele = 5.1)  2023-11-01 23:28:30[GPS]
+[2025-06-21 18:58:50] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G18 Epoch:  2023-11-01 23:54:30[GPS]
+[2025-06-21 18:58:50] [I] [2715] <great::t_gpvtflt::_udAmb                > : AMB will be removed! For Sat PRN G18 Epoch:  2023-11-01 23:54:30[GPS]
+
+[2025-06-21 18:58:50] [I] [3527] <great::t_gpvtflt::_cmp_sat_info         > : Erasing G21 data due to low elevation angle (ele = 6.9)  2023-11-01 23:56:00[GPS]
+
+
+
+
+[2025-06-21 18:58:50] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G21 Epoch:  2023-11-01 23:58:00[GPS]
+[2025-06-21 18:58:50] [I] [2675] <great::t_gpvtflt::_udAmb                > : RAW AMB_L1 was added! For Sat PRN G21 Epoch:  2023-11-01 23:58:00[GPS]
+
+
+
+[2025-06-21 18:58:50] [I] [1953] <great::t_gpvtflt::processBatch          > : ALGO: Forward filter -     Not positive definite covariance matrices:  0 %   (0, 2879)
+[2025-06-21 18:58:50.998] [multi_logger] [info] Station ALGO PPP processing completed in 22.000 seconds
+[2025-06-21 18:58:51.003] [multi_logger] [error] Receiver DCB not found for key: G_ALGO_C1CC2L.
+[2025-06-21 18:58:51.036] [multi_logger] [info] Matrix saved successfully: .\result\PPP_STEC\ALGO_GPS.txt
+[2025-06-21 18:58:51.813] [multi_logger] [info] PPP_STEC function completed.
+[2025-06-21 18:58:51.814] [multi_logger] [info] IonoMoni program finished.

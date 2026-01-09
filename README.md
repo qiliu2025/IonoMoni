@@ -61,7 +61,7 @@ Bug Fixed: Fixed an issue in the AATR module where an incorrect SP3 was used.
 
 Feature: Added an option to enable/disable receiver DCB correction controlled by the <rec_dcb_corr> parameter in the XML configuration.
 
-Enhancement: Expanded the available frequency-band combinations for GPS and Galileo by supporting more selectable bands from the XML configuration.
+Enhancement: Expanded the available frequency-band combinations for GPS and Galileo.
 
 ## Visualization
 The Python plotting scripts provided with IonoMoni support multi-station plotting for a single day. The directory structure under the plot folder is as follows:

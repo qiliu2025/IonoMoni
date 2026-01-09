@@ -29,7 +29,7 @@ The project adopts CMake as the build system, which is primarily used to organiz
 ./plot                  Plotting Python scripts *
 ./poleut1               Earth Orientation Parameters (EOP) generation program *
 ./doc                   Document files *
-  lonoMoni user manual v1.0.pdf    User manual *
+  lonoMoni user manual v1.1.0.pdf    User manual *
   lonoMoni.xml           Sample XML configuration file *
 ./CMakeLists.txt         CMake build configuration file *
 ./CMakePresets.json      CMake build preset settings *
@@ -59,9 +59,9 @@ Feature: Added "arc_average" algorithm for STEC extraction using the dual-freque
 [1.1.0] - 2026-01-10
 Bug Fixed: Fixed an issue in the AATR module where an incorrect SP3 was used.
 
-Feature: Added an option to enable/disable receiver DCB correction controlled by the <rec_dcb_corr> parameter in the XML configuration.
+Feature: Added an option to enable or disable receiver DCB correction controlled by the <rec_dcb_corr> parameter in the XML configuration.
 
-Enhancement: Expanded the available frequency-band combinations for GPS and Galileo.
+Enhancement: Expanded the available frequency bands for GPS and Galileo.
 
 ## Visualization
 The Python plotting scripts provided with IonoMoni support multi-station plotting for a single day. The directory structure under the plot folder is as follows:

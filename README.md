@@ -54,7 +54,7 @@ For detailed installation and usage instructions, please refer to the **IonoMoni
 Bug Fixed: Excluded data with missing DCB values from calculations in the STEC module.
 
 [1.0.1] - 2025-07-29
-Feature: Added "arc_average" algorithm for STEC extraction using the dual-frequency Carrier-to-Code Leveling method in the CCL_STEC module. The smoothing method ("hatch" or "arc_mean") is now controlled by the <smoothing> parameter in the XML configuration. 
+Feature: Added "arc_average" algorithm for STEC extraction using the dual-frequency Carrier-to-Code Leveling method in the CCL_STEC module. The smoothing method ("hatch" or "arc_mean") is now controlled by the &lt;smoothing&gt; parameter in the XML configuration.
 
 [1.1.0] - 2026-01-10
 Bug Fixed: Fixed an issue in the AATR module where an incorrect SP3 was used.

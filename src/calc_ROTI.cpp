@@ -104,6 +104,7 @@ void calc_roti_GPS(
             }
 
             ROTI[i][j] = std::sqrt(var / window_size);
+            //ROTI[i][j] = std::sqrt(var / (window_size - 1));
         }
     }
 

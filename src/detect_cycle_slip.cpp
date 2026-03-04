@@ -67,7 +67,11 @@ void detect_cycle_slip(double wlAmb[], double GF[], obs& OBS, int i,
                 count++;
                 continue;
             }
-
+            //if (T < 3 * sigma[count] && I1 < 1.27) {
+            //    count++;
+            //    continue;
+            //}
+            
             // for aatr
             cs_epoch[i][k + 1] = 1;
 

@@ -97,7 +97,7 @@
 		<arc_min_length>         10                 </arc_min_length><!--> minimum arc length threshold (in epochs)<!-->
 		<minimum_elev>           7                  </minimum_elev><!--> cut-off satellite elevation(deg) <!<!-->
 		<ion_height>             350000             </ion_height><!--> height of the ionospheric layer (in meters) <!-->
-		<mapping_function>       0                  </mapping_function><!--> type of mapping function used for VTEC conversion (0=SLM, 1=MSLM, 2=F_K, 3=Ou, 4=Fanselow) <!-->
+		<mapping_function>       0                  </mapping_function><!--> type of mapping function used for VTEC conversion (0=SLM, 1=MSLM, 2=F_K, 3=Ou, 4=Fanselow, 5=Klobuchar) <!-->
 		<smoothing>              arc_mean           </smoothing><!-- smoothing method for carrier-phase smoothing of pseudorange: "arc_mean" for arc-based mean, "hatch" for Hatch filter smoothing -->
 		<rec_dcb_corr>           true               </rec_dcb_corr><!--> apply receiver DCB correction<!-->
 		

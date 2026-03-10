@@ -42,7 +42,7 @@
 #include "ppp+.h"
 #include <cmath>
 
-double h = 350000.0;  // Default value to avoid linker errors
+double h;  // Default value to avoid linker errors
 namespace fs = std::filesystem;
 using namespace std;
 using namespace gnut;

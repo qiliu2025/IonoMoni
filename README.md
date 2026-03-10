@@ -1,4 +1,4 @@
-# IonoMoni: Ionospheric monitoring based on dual-frequency data from single GNSS station v1.0 by Henan University (last update: 2026-03-10, Please download the latest version in right panel "Releases")
+# IonoMoni: Ionospheric monitoring based on dual-frequency data from single GNSS station v1.1.1 by Henan University (last update: 2026-03-10, Please download the latest version in right panel "Releases")
 
 ## Overview
 

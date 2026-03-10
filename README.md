@@ -1,4 +1,4 @@
-# IonoMoni: Ionospheric monitoring based on dual-frequency data from single GNSS station v1.0 by Henan University (last update: 2026-01-10, Please download the latest version in right panel "Releases")
+# IonoMoni: Ionospheric monitoring based on dual-frequency data from single GNSS station v1.0 by Henan University (last update: 2026-03-10, Please download the latest version in right panel "Releases")
 
 ## Overview
 
@@ -62,6 +62,10 @@ Bug Fixed: Fixed an issue in the AATR module where an incorrect SP3 was used.
 Feature: Added an option to enable or disable receiver DCB correction controlled by the <rec_dcb_corr> parameter in the XML configuration.
 
 Enhancement: Expanded the available frequency bands for GPS and Galileo.
+
+[1.1.1] - 2026-03-10
+
+Feature: Added the Klobuchar mapping function as an option for VTEC conversion.
 
 ## Visualization
 The Python plotting scripts provided with IonoMoni support multi-station plotting for a single day. The directory structure under the plot folder is as follows:

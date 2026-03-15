@@ -1,4 +1,4 @@
-# IonoMoni: Ionospheric monitoring based on dual-frequency data from single GNSS station v1.1.1 by Henan University (last update: 2026-03-10, Please download the latest version in right panel "Releases")
+# IonoMoni: Ionospheric monitoring based on dual-frequency data from single GNSS station v1.1.2 by Henan University (last update: 2026-03-15, Please download the latest version in right panel "Releases")
 
 ## Overview
 
@@ -29,7 +29,7 @@ The project adopts CMake as the build system, which is primarily used to organiz
 ./plot                  Plotting Python scripts *
 ./poleut1               Earth Orientation Parameters (EOP) generation program *
 ./doc                   Document files *
-  lonoMoni user manual v1.1.1.pdf    User manual *
+  lonoMoni user manual v1.1.2.pdf    User manual *
   lonoMoni.xml           Sample XML configuration file *
 ./CMakeLists.txt         CMake build configuration file *
 ./CMakePresets.json      CMake build preset settings *

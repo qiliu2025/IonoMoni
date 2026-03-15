@@ -67,6 +67,10 @@ Enhancement: Expanded the available frequency bands for GPS and Galileo.
 
 Feature: Added the Klobuchar mapping function as an option for VTEC conversion.
 
+[1.1.2] - 2026-03-15
+
+Temporary fix: Added a temporary workaround for an SP3 parsing bug to avoid crashes when satellite PRNs exceeded the currently supported range.
+
 ## Visualization
 The Python plotting scripts provided with IonoMoni support multi-station plotting for a single day. The directory structure under the plot folder is as follows:
 ```

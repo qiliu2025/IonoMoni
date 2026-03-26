@@ -7,7 +7,10 @@ The ionosphere has a significant impact on Global Navigation Satellite System (G
 The project adopts CMake as the build system, which is primarily used to organize the source code structure and manage the linking of external libraries. CMake integrates seamlessly with Visual Studio, enabling automated compilation and debugging, and also facilitates future migration to Linux or other platforms. In addition, IonoMoni uses XML files for parameter configuration, which not only allows flexible control over operation modes, input paths, and functional modules, but also enables seamless integration with batch processing scripts for efficient automated workflows.
 
 This work is published in GPS Solutions (https://link.springer.com/article/10.1007/s10291-026-02059-z). If this open-source tool and our research support your work, we would greatly appreciate it if you could cite our paper with the reference below:
+
 Zhang, Y., Zhang, Y., Liu, Q. et al. IonoMoni: ionospheric monitoring based on dual-frequency data from single GNSS station. GPS Solut 30, 100 (2026). https://doi.org/10.1007/s10291-026-02059-z
+
+If you are interested in contributing to this work for joint development, please contact qi.liu@henu.edu.cn
 
 ## Key Features
 

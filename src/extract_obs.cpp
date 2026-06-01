@@ -1,4 +1,4 @@
-﻿#include "extract_obs.h"
+﻿﻿#include "extract_obs.h"
 #include "gutils/gobs.h"
 #include "gutils/gsys.h" 
 
@@ -85,11 +85,11 @@ namespace gnut {
         }
 
         auto band2str_simple = [](gnut::GOBSBAND b)->std::string {
-   
-            return gnut::gobsband2str(b); 
+
+            return gnut::gobsband2str(b);
             };
 
-        const gnut::GOBSBAND bandA = bands[0]; 
+        const gnut::GOBSBAND bandA = bands[0];
         const gnut::GOBSBAND bandB = bands[1];
 
         auto pick_code_priority = [&](gnut::GOBSBAND b) -> const std::vector<std::string>&{
@@ -123,10 +123,10 @@ namespace gnut {
         const size_t num_epochs = 2881;
         const size_t num_sats = 33;
 
-        GPS_C1.assign(num_epochs, std::vector<double>(num_sats, 0.0)); 
-        GPS_C2.assign(num_epochs, std::vector<double>(num_sats, 0.0)); 
+        GPS_C1.assign(num_epochs, std::vector<double>(num_sats, 0.0));
+        GPS_C2.assign(num_epochs, std::vector<double>(num_sats, 0.0));
         GPS_L1.assign(num_epochs, std::vector<double>(num_sats, 0.0));
-        GPS_L2.assign(num_epochs, std::vector<double>(num_sats, 0.0)); 
+        GPS_L2.assign(num_epochs, std::vector<double>(num_sats, 0.0));
 
         epochs.clear();
 
@@ -231,7 +231,7 @@ namespace gnut {
                 auto it = std::find(GPS_sats.begin(), GPS_sats.end(), prn);
                 if (it == GPS_sats.end()) continue;
 
-                size_t j = std::distance(GPS_sats.begin(), it) + 1; 
+                size_t j = std::distance(GPS_sats.begin(), it) + 1;
                 if (j >= num_sats) continue;
 
                 const auto& GFst = ob.obs();
@@ -247,10 +247,10 @@ namespace gnut {
 
         for (int prn = 1; prn <= 32; ++prn) {
             for (int ep = 1; ep <= 2880; ++ep) {
-                OBS.C1[prn][ep] = GPS_C1[ep][prn]; 
-                OBS.C2[prn][ep] = GPS_C2[ep][prn]; 
-                OBS.L1[prn][ep] = GPS_L1[ep][prn]; 
-                OBS.L2[prn][ep] = GPS_L2[ep][prn]; 
+                OBS.C1[prn][ep] = GPS_C1[ep][prn];
+                OBS.C2[prn][ep] = GPS_C2[ep][prn];
+                OBS.L1[prn][ep] = GPS_L1[ep][prn];
+                OBS.L2[prn][ep] = GPS_L2[ep][prn];
             }
         }
     }
@@ -259,20 +259,20 @@ namespace gnut {
     void extract_BDS_obs(
         t_gallobs* gobs,
         const std::string& station,
-        std::vector<std::vector<double>>& BDS_C1,  
-        std::vector<std::vector<double>>& BDS_C2,  
-        std::vector<std::vector<double>>& BDS_L1,  
-        std::vector<std::vector<double>>& BDS_L2,  
+        std::vector<std::vector<double>>& BDS_C1,
+        std::vector<std::vector<double>>& BDS_C2,
+        std::vector<std::vector<double>>& BDS_L1,
+        std::vector<std::vector<double>>& BDS_L2,
         std::vector<t_gtime>& epochs,
         std::vector<std::string>& BDS_sats,
-        std::string& C_P1,                         
-        std::string& C_P2,                         
+        std::string& C_P1,
+        std::string& C_P2,
         std::shared_ptr<spdlog::logger> logger,
         obs& OBS,
-        gnut::t_gsetgnss& set_gnss                 
+        gnut::t_gsetgnss& set_gnss
     )
     {
-        
+
         const std::vector<std::string> C2_priority = { "C2I", "C2X" };
         const std::vector<std::string> C6_priority = { "C6I", "C6X" };
         const std::vector<std::string> C7_priority = { "C7I", "C7X" };
@@ -281,16 +281,16 @@ namespace gnut {
         const std::vector<std::string> L6_priority = { "L6I", "L6X" };
         const std::vector<std::string> L7_priority = { "L7I", "L7X" };
 
-  
+
         std::vector<gnut::GOBSBAND> bands;
         try {
-            bands = set_gnss.band(gnut::BDS);   
+            bands = set_gnss.band(gnut::BDS);
         }
         catch (const std::exception& e) {
             logger->warn("[{}] <bds><band> not set or invalid, fallback to 2 7. ({})", station, e.what());
         }
 
-   
+
         if (bands.size() < 2) {
             bands = { gnut::BAND_2, gnut::BAND_7 };
             logger->warn("[{}] BDS band size < 2, fallback to 2 7", station);
@@ -313,7 +313,7 @@ namespace gnut {
         }
 
         auto band2str_simple = [](gnut::GOBSBAND b)->std::string {
-            return gnut::gobsband2str(b);  
+            return gnut::gobsband2str(b);
             };
 
         const gnut::GOBSBAND bandA = bands[0];
@@ -347,7 +347,7 @@ namespace gnut {
             station, band2str_simple(bandA), band2str_simple(bandB));
 
         const size_t num_epochs = 2881;
-        const size_t num_sats = 47; 
+        const size_t num_sats = 47;
 
         BDS_C1.assign(num_epochs, std::vector<double>(num_sats, 0.0));
         BDS_C2.assign(num_epochs, std::vector<double>(num_sats, 0.0));
@@ -470,10 +470,10 @@ namespace gnut {
 
         for (int prn = 1; prn <= 46; ++prn) {
             for (int ep = 1; ep <= 2880; ++ep) {
-                OBS.C1[prn][ep] = BDS_C1[ep][prn]; 
-                OBS.C2[prn][ep] = BDS_C2[ep][prn]; 
-                OBS.L1[prn][ep] = BDS_L1[ep][prn]; 
-                OBS.L2[prn][ep] = BDS_L2[ep][prn]; 
+                OBS.C1[prn][ep] = BDS_C1[ep][prn];
+                OBS.C2[prn][ep] = BDS_C2[ep][prn];
+                OBS.L1[prn][ep] = BDS_L1[ep][prn];
+                OBS.L2[prn][ep] = BDS_L2[ep][prn];
             }
         }
     }
@@ -481,35 +481,35 @@ namespace gnut {
     void extract_GAL_obs(
         t_gallobs* gobs,
         const std::string& station,
-        std::vector<std::vector<double>>& GAL_C1,  
-        std::vector<std::vector<double>>& GAL_C2,  
-        std::vector<std::vector<double>>& GAL_L1,  
-        std::vector<std::vector<double>>& GAL_L2,  
+        std::vector<std::vector<double>>& GAL_C1,
+        std::vector<std::vector<double>>& GAL_C2,
+        std::vector<std::vector<double>>& GAL_L1,
+        std::vector<std::vector<double>>& GAL_L2,
         std::vector<t_gtime>& epochs,
         std::vector<std::string>& GAL_sats,
-        std::string& E_P1,                         
-        std::string& E_P2,                         
+        std::string& E_P1,
+        std::string& E_P2,
         std::shared_ptr<spdlog::logger> logger,
         obs& OBS,
-        gnut::t_gsetgnss& set_gnss                 
+        gnut::t_gsetgnss& set_gnss
     )
     {
- 
-        const std::vector<std::string> C1_priority = { "C1X", "C1C", "C1" };  
-        const std::vector<std::string> C5_priority = { "C5X", "C5Q", "C5I", "P5" , "C5" }; 
-        const std::vector<std::string> C7_priority = { "C7X", "C7Q", "C7I", "C7" }; 
+
+        const std::vector<std::string> C1_priority = { "C1X", "C1C", "C1" };
+        const std::vector<std::string> C5_priority = { "C5X", "C5Q", "C5I", "P5" , "C5" };
+        const std::vector<std::string> C7_priority = { "C7X", "C7Q", "C7I", "C7" };
         const std::vector<std::string> C8_priority = { "C8X", "C8Q", "C8I", "C8" };
-        const std::vector<std::string> C6_priority = { "C6Z", "C6X", "C6C", "C6B", "C6A", "C6" }; 
+        const std::vector<std::string> C6_priority = { "C6Z", "C6X", "C6C", "C6B", "C6A", "C6" };
 
         const std::vector<std::string> L1_priority = { "L1Z", "L1X", "L1C", "L1B", "L1A", "L1" };
         const std::vector<std::string> L5_priority = { "L5X", "L5Q", "L5I", "L5" };
-        const std::vector<std::string> L7_priority = { "L7X", "L7Q", "L7I", "L7" }; 
-        const std::vector<std::string> L8_priority = { "L8X", "L8Q", "L8I", "L8" }; 
+        const std::vector<std::string> L7_priority = { "L7X", "L7Q", "L7I", "L7" };
+        const std::vector<std::string> L8_priority = { "L8X", "L8Q", "L8I", "L8" };
         const std::vector<std::string> L6_priority = { "L6Z", "L6X", "L6C", "L6B", "L6A", "L6" };
 
         std::vector<gnut::GOBSBAND> bands;
         try {
-            bands = set_gnss.band(gnut::GAL);  
+            bands = set_gnss.band(gnut::GAL);
         }
         catch (const std::exception& e) {
             logger->warn("[{}] <gal><band> not set or invalid, fallback to 1 5. ({})", station, e.what());
@@ -541,8 +541,8 @@ namespace gnut {
             return gnut::gobsband2str(b);
             };
 
-        const gnut::GOBSBAND bandA = bands[0]; 
-        const gnut::GOBSBAND bandB = bands[1]; 
+        const gnut::GOBSBAND bandA = bands[0];
+        const gnut::GOBSBAND bandB = bands[1];
 
         auto pick_code_priority = [&](gnut::GOBSBAND b) -> const std::vector<std::string>&{
             switch (b) {
@@ -576,7 +576,7 @@ namespace gnut {
             station, band2str_simple(bandA), band2str_simple(bandB));
 
         const size_t num_epochs = 2881;
-        const size_t num_sats = 37;   
+        const size_t num_sats = 37;
 
         GAL_C1.assign(num_epochs, std::vector<double>(num_sats, 0.0));
         GAL_C2.assign(num_epochs, std::vector<double>(num_sats, 0.0));
@@ -684,7 +684,7 @@ namespace gnut {
                 auto it = std::find(GAL_sats.begin(), GAL_sats.end(), prn);
                 if (it == GAL_sats.end()) continue;
 
-                size_t j = std::distance(GAL_sats.begin(), it) + 1; 
+                size_t j = std::distance(GAL_sats.begin(), it) + 1;
                 if (j >= num_sats) continue;
 
                 const auto& GFst = ob.obs();
@@ -717,12 +717,12 @@ namespace gnut {
         std::vector<std::vector<double>>& GLO_L2,
         std::vector<t_gtime>& epochs,
         std::vector<std::string>& GLO_sats,
-        std::string& R_P1, std::string& R_P2,                
+        std::string& R_P1, std::string& R_P2,
         std::shared_ptr<spdlog::logger> logger,
         obs& OBS,
         gnut::t_gsetgnss& set_gnss
     ) {
-   
+
         const std::vector<std::string> C1_priority = { "C1P", "C1C", "P1", "C1" };
         const std::vector<std::string> C2_priority = { "C2P", "C2C", "P2", "C2" };
 
@@ -755,8 +755,8 @@ namespace gnut {
             bands = { gnut::BAND_1, gnut::BAND_2 };
         }
 
-        const gnut::GOBSBAND bandA = bands[0]; 
-        const gnut::GOBSBAND bandB = bands[1]; 
+        const gnut::GOBSBAND bandA = bands[0];
+        const gnut::GOBSBAND bandB = bands[1];
 
         auto band2str_simple = [](gnut::GOBSBAND b)->std::string {
             return gnut::gobsband2str(b);
@@ -789,7 +789,7 @@ namespace gnut {
         const auto& PhasB_pri = pick_phase_priority(bandB);
 
 
-        const size_t num_epochs = 2881, num_sats = 25; 
+        const size_t num_epochs = 2881, num_sats = 25;
         GLO_C1.assign(num_epochs, std::vector<double>(num_sats, 0.0));
         GLO_C2.assign(num_epochs, std::vector<double>(num_sats, 0.0));
         GLO_L1.assign(num_epochs, std::vector<double>(num_sats, 0.0));
@@ -894,7 +894,7 @@ namespace gnut {
                 auto it = std::find(GLO_sats.begin(), GLO_sats.end(), prn);
                 if (it == GLO_sats.end()) continue;
 
-                size_t j = std::distance(GLO_sats.begin(), it) + 1; 
+                size_t j = std::distance(GLO_sats.begin(), it) + 1;
                 if (j >= num_sats) continue;
 
                 const auto& GFst = ob.obs();
@@ -1043,6 +1043,3 @@ namespace gnut {
     //}
 
 }
-
-
-

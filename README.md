@@ -1,4 +1,4 @@
-# IonoMoni: Ionospheric monitoring based on dual-frequency data from single GNSS station v1.1.2 by Henan University (last update: 2026-03-15, Please download the latest version in right panel "Releases")
+# RADIX-IonoMoni: Ionospheric monitoring based on dual-frequency data from single GNSS station v1.1.2 by Henan University (last update: 2026-03-15, Please download the latest version in right panel "Releases")
 
 ## Overview
 
